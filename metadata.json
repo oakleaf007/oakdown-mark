@@ -1,0 +1,5 @@
+{
+  "name": "Markdown Forge",
+  "description": "A powerful, frontend-only Markdown editor with live preview, attribute guide, and drag-and-drop image embedding.",
+  "requestFramePermissions": []
+}
